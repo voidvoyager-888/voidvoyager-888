@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hello, World. I'm Ksenia.
 
-<!--
-**voidvoyager-888/voidvoyager-888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI Engineer · Curious Builder · Professional Experimenter**
 
-Here are some ideas to get you started:
+I collect technologies, projects, and questions that start with:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> *“Wait... could I build this?”*
+
+### 🌌 Current coordinates
+
+`Software Engineering` · `AI` · `Cloud` · `DevOps`
+
+### 🛸 Mission log
+
+Building things.  
+Learning things.  
+Breaking things.  
+Fixing things.  
+Occasionally wondering why it worked in the first place.
+
+This GitHub is my little corner of the internet for **experiments, projects, and things worth figuring out.**
+
+**Stay curious. 🚀**
