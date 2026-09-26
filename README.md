@@ -70,6 +70,3 @@ AI engineer passionate about technologies, software engineering and projects tha
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
 </p>
-
----
-<p align="center"><i>⭐️ From <a href="https://github.com/voidvoyager-888">voidvoyager-888</a></i></p>
