@@ -70,3 +70,5 @@ AI engineer passionate about technologies, software engineering and projects tha
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
 </p>
+
+---
